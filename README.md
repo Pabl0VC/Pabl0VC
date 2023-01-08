@@ -16,7 +16,7 @@
 - 📫 Santigo / Chile
 
 <br>
-<hr>
+
 
 ## ⚡ SKILLS
 <br>
@@ -25,7 +25,7 @@
 </p>
 <br>
 
-<hr>
+
 
 ## 💬 CONTACTO
 <p align="center">
@@ -34,11 +34,11 @@
 <a target="_blank" href="mailto:pablo_vegacastro@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a></p>
 
 <br>
-<hr>
+
 <br>
 <h2 align="center">
 🔭 Aprender es divertido y las cosas que puedes hacer con la tecnología de hoy en día es sorprendente.</h2>
 <br>
 
-<hr>
+
 <h2  align="center">💻 MIS REPOS ⬇️ </h2>
