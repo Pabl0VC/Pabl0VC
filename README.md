@@ -12,7 +12,7 @@
 
 ## 👨🏻‍💻 Acerca de mi
 
-Soy Pablo Vega, graduado del Bootcamp de Coding Dojo  en Full Stack Python. Tengo habilidades en Python y Javascript, manejo MySQL y he trabajado con Flask para desarrollar aplicaciones web. Aunque no tengo experiencia laboral, he trabajado en proyectos personales para mejorar mis habilidades.
+Soy Pablo Vega, graduado del Bootcamp de Coding Dojo de la carrera Full Stack Python. Tengo habilidades en Python y Javascript, manejo MySQL y he trabajado con Flask para desarrollar aplicaciones web. Aunque no tengo experiencia laboral, he trabajado en proyectos personales para mejorar mis habilidades.
 
 Me emociona seguir aprendiendo y colaborar en proyectos desafiantes como desarrollador Full Stack. Tengo certificación oficial de Microsoft Azure Fundamentals AZ-900 y actualmente estoy estudiando Desarrollo Frontend React en Coderhouse.
 
