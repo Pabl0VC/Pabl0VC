@@ -10,10 +10,15 @@
 </div>  
 <br>
 
-- 🌱 Mi nombre es Pablo, soy Ingeniero Agrónomo y graduado del Bootcamp de Coding Dojo de la carrera Full Stack Python
-- 😄 Cuento con certificacion oficial de Microsoft Azure Fundamentals AZ-900 
-- ⚡ Actualmente estudio en Coderhouse la carrera de Desarrollo Frontend React 
-- 📫 Santigo / Chile
+## 👨🏻‍💻 Acerca de mi
+
+Soy Pablo Vega, graduado del Bootcamp de Coding Dojo  en Full Stack Python. Tengo habilidades en Python y Javascript, manejo MySQL y he trabajado con Flask para desarrollar aplicaciones web. Aunque no tengo experiencia laboral, he trabajado en proyectos personales para mejorar mis habilidades.
+
+Me emociona seguir aprendiendo y colaborar en proyectos desafiantes como desarrollador Full Stack. Tengo certificación oficial de Microsoft Azure Fundamentals AZ-900 y actualmente estoy estudiando Desarrollo Frontend React en Coderhouse.
+
+En mi perfil de GitHub puedes encontrar algunos de mis proyectos personales donde podrás ver mi estilo de codificación y habilidades en acción.
+
+
 
 <br>
 
@@ -33,6 +38,7 @@
 <a target="_blank" href="https://portfolio-pablovega.000webhostapp.com/"><img target="_blank"  src="https://img.shields.io/badge/-WEB-FF4088?style=for-the-badge&logo=Hugo&logoColor=white"></img></a>	
 <a target="_blank" href="https://www.linkedin.com/in/pablo-vega-castro/"><img target="_blank"  src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank" href="mailto:pablo_vegacastro@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a></p>
+📫 Santigo / Chile
 
 <br>
 
