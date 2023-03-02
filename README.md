@@ -16,7 +16,14 @@ Soy Pablo Vega, graduado del Bootcamp de Coding Dojo de la carrera Full Stack Py
 
 Me emociona seguir aprendiendo y colaborar en proyectos desafiantes como desarrollador Full Stack. Tengo certificación oficial de Microsoft Azure Fundamentals AZ-900 y actualmente estoy estudiando Desarrollo Frontend React en Coderhouse.
 
+##
 En mi perfil de GitHub puedes encontrar algunos de mis proyectos personales donde podrás ver mi estilo de codificación y habilidades en acción.
+
+I am Pablo Vega, a graduate of the Full Stack Python Career Bootcamp at Coding Dojo. I have skills in Python and Javascript, and experience using MySQL and Flask for web application development. Although I have no work experience, I have worked on personal projects to improve my skills.
+
+I am excited to continue learning and collaborating on challenging projects as a Full Stack developer. I am Microsoft Azure Fundamentals AZ-900 certified, and currently studying Frontend Development with React at Coderhouse.
+
+You can find some of my personal projects on my GitHub profile, where you can see my coding style and skills in action.
 
 
 
