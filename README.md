@@ -55,4 +55,4 @@ You can find some of my personal projects on my GitHub profile, where you can se
 <br>
 
 
-<h2 align="center">💻 MIS REPOS ⬇️ </h2>
+<h2 align="center">💻 MIS REPOSITORIOS ⬇️ </h2>
