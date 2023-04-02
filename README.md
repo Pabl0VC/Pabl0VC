@@ -51,7 +51,7 @@ You can find some of my personal projects on my GitHub profile, where you can se
 
 <br>
 <h2 align="center">
-🔭 Aprender es divertido y las cosas que puedes hacer con la tecnología de hoy en día es sorprendente.</h2>
+🔭 Aprender es divertido y las cosas que puedes hacer con la tecnología de hoy en día es sorprendente</h2>
 <br>
 
 
