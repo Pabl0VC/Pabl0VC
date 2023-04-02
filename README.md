@@ -50,9 +50,9 @@ You can find some of my personal projects on my GitHub profile, where you can se
 <br>
 
 <br>
-<h2 align="center">
+<!-- <h2 align="center">
 🔭 Aprender es divertido y las cosas que puedes hacer con la tecnología de hoy en día es sorprendente</h2>
-<br>
+<br> -->
 
 
 <h2 align="center">💻 MIS REPOS ⬇️ </h2>
